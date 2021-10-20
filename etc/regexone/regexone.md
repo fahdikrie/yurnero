@@ -141,3 +141,45 @@ skip:
 \d+ files? found\?
 ```
 
+### **Lesson 9: All this whitespace**
+match:
+- &#8291;1.   abc
+- &#8291;2.	abc
+- &#8291;1.           abc
+
+skip:
+- 4.abc
+
+```
+\d+\.\s+abc
+```
+
+### **Lesson 10: Starting and ending**
+match:
+- Mission: successful
+- Last Mission: unsuccessful
+
+skip:
+- Next Mission: successful upon capture of target
+
+```
+^Mission: successful$
+```
+
+### **Lesson 11: Match groups**
+match:
+- file_record_transcript.pdf -> `file_record_transcript`
+- file_07241999.pdf -> `file_07241999`
+
+skip:
+- testfile_fake.pdf.tmp
+
+```
+(\w*).pdf$
+```
+
+or
+
+```
+^(file.+)\.pdf$
+```
