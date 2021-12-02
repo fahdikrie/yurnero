@@ -7,3 +7,4 @@ Why "yurnero", you might ask? I felt like going with a catchy consists-of-only-o
 hr: hackerrank <br/>
 lc: leetcode <br/>
 cf: codeforces <br/>
+cw: codewars <br/>

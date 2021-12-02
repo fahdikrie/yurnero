@@ -4,7 +4,7 @@ fib :: Integer -> Integer
 fib n = fibacc n 0 1
     where
         fibacc 0 f1 f2 = f1
-        fibacc n f1 f2 = fibacc (n-1) f2 (f1+f2) 
+        fibacc n f1 f2 = fibacc (n-1) f2 (f1+f2)
 
 fibMod :: Integer -> Integer
 fibMod n = fib n `mod` 100000007
