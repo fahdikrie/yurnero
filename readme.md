@@ -8,3 +8,4 @@ hr: hackerrank <br/>
 lc: leetcode <br/>
 cf: codeforces <br/>
 cw: codewars <br/>
+dcd: dicoding <br/>
