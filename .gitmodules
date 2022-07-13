@@ -1,3 +1,6 @@
 [submodule "dicoding/fundamental-android/github-user-app"]
 	path = dicoding/fundamental-android/github-user-app
 	url = git@github.com:fahdikrie/github-user-app.git
+[submodule "dicoding/intermediate-android/story-app"]
+	path = dicoding/intermediate-android/story-app
+	url = git@github.com:fahdikrie/story-app.git
