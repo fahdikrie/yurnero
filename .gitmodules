@@ -4,3 +4,6 @@
 [submodule "dicoding/intermediate-android/story-app"]
 	path = dicoding/intermediate-android/story-app
 	url = git@github.com:fahdikrie/story-app.git
+[submodule "dicoding/aad-certi-prep"]
+	path = dicoding/aad-certi-prep
+	url = git@github.com:fahdikrie/aad-certi-prep.git
