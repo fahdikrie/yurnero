@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Latihan Canvas Likes App</string>
+    <string name="like">Suka</string>
+    <string name="dislike">Tidak Suka</string>
+</resources>
