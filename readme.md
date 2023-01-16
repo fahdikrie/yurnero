@@ -9,3 +9,4 @@ lc: leetcode <br/>
 cf: codeforces <br/>
 cw: codewars <br/>
 dcd: dicoding <br/>
+udm: udemy <br/>
