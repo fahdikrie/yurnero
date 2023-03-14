@@ -26,7 +26,7 @@ class Result {
         for (int i = 0; i < d; i++) {
             a.add(a.remove(0));
         }
-        
+
         return a;
     }
 
